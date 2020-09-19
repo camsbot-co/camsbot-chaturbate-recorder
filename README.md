@@ -3,7 +3,6 @@
 Features list:
 - Download Chaturbate vids directly to your PC
 - Automatically start recording
-- Store all videos on a cloud
 - Auto-continuation after a private show
 - Superb video quality (4K, 1080p, and 720p)
 - Record as many videos as you want at the same time
