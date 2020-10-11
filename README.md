@@ -2,8 +2,11 @@
 
 Features list:
 - Download Chaturbate vids directly to your PC
+
   Never miss your fave models again because the recordings will be waiting for you.
+
 - Automatically start recording
+
   Set the recorder to start recording as soon as your favorite Chaturbate performer is online so you don’t miss a minute of the action.
 - Auto-continuation after a private show
   As soon as the model is done with a private show, the recorder will automatically continue recording.
